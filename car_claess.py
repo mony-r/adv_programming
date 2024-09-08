@@ -1,4 +1,7 @@
 class car():
-    pass
+    def ex():
+        print("iam a car")
+
+
 class yego(car):
     pass
